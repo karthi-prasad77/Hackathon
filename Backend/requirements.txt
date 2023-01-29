@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+plotly
+fastapi
+uvicorn
+motor
+pymongo
+bcrypt
+python-multipart
+opencv-python
+opencv-contrib-python
+libgl1-mesa-glx
+opencv-python-headless
